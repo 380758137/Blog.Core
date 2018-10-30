@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Blog.Core</name>
+    </assembly>
+    <members>
+        <member name="M:Blog.Core.AuthHelper.OverWrite.JwtHelper.IssueJWT(Blog.Core.Model.TokenModelJwt)">
+            <summary>
+            颁发JWT字符串
+            </summary>
+            <param name="tokenModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Core.AuthHelper.OverWrite.JwtHelper.SerializeJWT(System.String)">
+            <summary>
+            解析
+            </summary>
+            <param name="jwtStr"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Blog.Core.Controllers.ValuesController">
+            <summary>
+            value Api
+            </summary>
+        </member>
+        <member name="M:Blog.Core.Controllers.ValuesController.Get">
+            <summary>
+            获取所有value值
+            </summary>
+            <returns>The get.</returns>
+        </member>
+        <member name="M:Blog.Core.Controllers.ValuesController.Posts(Blog.Core.Model.Love)">
+            <summary>
+            Post
+            </summary>
+            <param name="love">model实体参数类</param>
+        </member>
+        <member name="M:Blog.Core.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="configuration">Configuration.</param>
+        </member>
+        <member name="M:Blog.Core.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configures 属性.
+            </summary>
+            <param name="services">Services.</param>
+        </member>
+    </members>
+</doc>
