@@ -4,4 +4,13 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Blog.Core.IRepository\Blog.Core.IRepository.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="sqlSugarCore" Version="4.8.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="sugar\" />
+  </ItemGroup>
 </Project>

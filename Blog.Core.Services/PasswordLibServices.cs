@@ -1,9 +1,9 @@
 ﻿using System;
-using Blog.Core.IRepository;
+using Blog.Core.IServices;
 
-namespace Blog.Core.Repository
+namespace Blog.Core.Services
 {
-    public class PasswordLibRepository: IPasswordLibRepository
+    public class PasswordLibServices : IPasswordLibService
     {
 
     }

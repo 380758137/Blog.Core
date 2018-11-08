@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Blog.Core.IRepository
+namespace Blog.Core.IServices
 {
     public interface ITopicService
     {

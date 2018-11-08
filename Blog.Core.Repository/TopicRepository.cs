@@ -1,10 +1,10 @@
 ﻿using System;
+using Blog.Core.IRepository;
+
 namespace Blog.Core.Repository
 {
-    public class TopicRepository
+    public class TopicRepository: ITopicRepository
     {
-        public TopicRepository()
-        {
-        }
+
     }
 }

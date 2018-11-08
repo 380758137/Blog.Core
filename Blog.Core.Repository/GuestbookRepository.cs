@@ -1,10 +1,10 @@
 ﻿using System;
+using Blog.Core.IRepository;
+
 namespace Blog.Core.Repository
 {
-    public class GuestbookRepository
+    public class GuestbookRepository: IGuestbookRepository
     {
-        public GuestbookRepository()
-        {
-        }
+
     }
 }

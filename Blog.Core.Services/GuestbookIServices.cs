@@ -1,9 +1,9 @@
 ﻿using System;
-using Blog.Core.IRepository;
+using Blog.Core.IServices;
 
-namespace Blog.Core.Repository
+namespace Blog.Core.Services
 {
-    public class GuestbookRepository: IGuestbookRepository
+    public class GuestbookServices: IGuestbookService
     {
 
     }

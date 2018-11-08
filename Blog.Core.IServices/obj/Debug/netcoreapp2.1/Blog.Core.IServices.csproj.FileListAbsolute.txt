@@ -1,0 +1,13 @@
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/bin/Debug/netcoreapp2.1/Blog.Core.IServices.deps.json
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/bin/Debug/netcoreapp2.1/Blog.Core.IServices.dll
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/bin/Debug/netcoreapp2.1/Blog.Core.IServices.pdb
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/bin/Debug/netcoreapp2.1/Blog.Core.Model.dll
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/bin/Debug/netcoreapp2.1/Blog.Core.Model.pdb
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/bin/Debug/netcoreapp2.1/Blog.Core.Model.xml
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj/Debug/netcoreapp2.1/Blog.Core.IServices.csprojAssemblyReference.cache
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj/Debug/netcoreapp2.1/Blog.Core.IServices.csproj.CoreCompileInputs.cache
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj/Debug/netcoreapp2.1/Blog.Core.IServices.AssemblyInfoInputs.cache
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj/Debug/netcoreapp2.1/Blog.Core.IServices.AssemblyInfo.cs
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj/Debug/netcoreapp2.1/Blog.Core.IServices.csproj.CopyComplete
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj/Debug/netcoreapp2.1/Blog.Core.IServices.dll
+/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj/Debug/netcoreapp2.1/Blog.Core.IServices.pdb

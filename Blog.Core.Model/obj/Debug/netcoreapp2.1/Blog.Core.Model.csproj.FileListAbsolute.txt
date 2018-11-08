@@ -7,3 +7,4 @@
 /Users/liusheng/Projects/Blog.Core/Blog.Core.Model/obj/Debug/netcoreapp2.1/Blog.Core.Model.AssemblyInfo.cs
 /Users/liusheng/Projects/Blog.Core/Blog.Core.Model/obj/Debug/netcoreapp2.1/Blog.Core.Model.dll
 /Users/liusheng/Projects/Blog.Core/Blog.Core.Model/obj/Debug/netcoreapp2.1/Blog.Core.Model.pdb
+/Users/liusheng/Projects/Blog.Core/Blog.Core.Model/obj/Debug/netcoreapp2.1/Blog.Core.Model.csprojAssemblyReference.cache

@@ -1,10 +1,10 @@
 ﻿using System;
+using Blog.Core.IRepository;
+
 namespace Blog.Core.Repository
 {
-    public class sysUserInfoRepository
+    public class sysUserInfoRepository: IsysUserInfoRepository
     {
-        public sysUserInfoRepository()
-        {
-        }
+
     }
 }

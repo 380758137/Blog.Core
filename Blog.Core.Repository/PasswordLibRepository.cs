@@ -1,10 +1,10 @@
 ﻿using System;
+using Blog.Core.IRepository;
+
 namespace Blog.Core.Repository
 {
-    public class PasswordLibRepository
+    public class PasswordLibRepository: IPasswordLibRepository
     {
-        public PasswordLibRepository()
-        {
-        }
+
     }
 }

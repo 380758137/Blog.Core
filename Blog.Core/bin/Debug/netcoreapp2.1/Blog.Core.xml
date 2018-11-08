@@ -18,23 +18,6 @@
             <param name="jwtStr"></param>
             <returns></returns>
         </member>
-        <member name="T:Blog.Core.Controllers.ValuesController">
-            <summary>
-            value Api
-            </summary>
-        </member>
-        <member name="M:Blog.Core.Controllers.ValuesController.Get">
-            <summary>
-            获取所有value值
-            </summary>
-            <returns>The get.</returns>
-        </member>
-        <member name="M:Blog.Core.Controllers.ValuesController.Posts(Blog.Core.Model.Love)">
-            <summary>
-            Post
-            </summary>
-            <param name="love">model实体参数类</param>
-        </member>
         <member name="M:Blog.Core.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
             <summary>
             构造函数

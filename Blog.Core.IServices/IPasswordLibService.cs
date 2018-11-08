@@ -1,7 +1,7 @@
 ﻿using System;
-namespace Blog.Core.IRepository
+namespace Blog.Core.IServices
 {
-    public interface IPasswordLibRepository
+    public interface IPasswordLibService
     {
     }
 }
