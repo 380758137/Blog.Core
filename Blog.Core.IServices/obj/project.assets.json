@@ -708,13 +708,13 @@
       "projectName": "Blog.Core.IServices",
       "projectPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/Blog.Core.IServices.csproj",
       "packagesPath": "/Users/liusheng/.nuget/packages/",
-      "outputPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj/",
+      "outputPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core.IServices/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/liusheng/.nuget/NuGet/NuGet.Config"
+        "/Users/liusheng/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

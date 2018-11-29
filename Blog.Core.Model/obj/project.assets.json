@@ -692,13 +692,13 @@
       "projectName": "Blog.Core.Model",
       "projectPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core.Model/Blog.Core.Model.csproj",
       "packagesPath": "/Users/liusheng/.nuget/packages/",
-      "outputPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core.Model/obj/",
+      "outputPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core.Model/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/liusheng/.nuget/NuGet/NuGet.Config"
+        "/Users/liusheng/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

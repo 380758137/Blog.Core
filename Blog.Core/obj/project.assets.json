@@ -13283,13 +13283,13 @@
       "projectName": "Blog.Core",
       "projectPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core/Blog.Core.csproj",
       "packagesPath": "/Users/liusheng/.nuget/packages/",
-      "outputPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core/obj/",
+      "outputPath": "/Users/liusheng/Projects/Blog.Core/Blog.Core/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/liusheng/.nuget/NuGet/NuGet.Config"
+        "/Users/liusheng/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -13324,10 +13324,10 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.1, )",
-            "autoReferenced": true
+            "version": "[2.1.1, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
